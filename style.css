@@ -1,0 +1,31 @@
+body {
+  background-color: #ededed;
+}
+
+.container {
+  box-shadow: -5px -5px 5px 0 rgba(255, 255, 255, 0.6), 12px 12px 12px 0 rgba(0, 0, 0, 0.05);
+  box-sizing: border-box;
+  border-radius: 15px;
+}
+
+.row {
+  box-shadow: -5px -5px 5px 0 rgba(255, 255, 255, 0.6), 12px 12px 12px 0 rgba(0, 0, 0, 0.05);
+  box-sizing: border-box;
+  border-radius: 15px;
+}
+
+img {
+  box-shadow: -5px -5px 5px 0 rgba(255, 255, 255, 0.6), 12px 12px 12px 0 rgba(0, 0, 0, 0.05);
+  box-sizing: border-box;
+  border-radius: 15px;
+}
+
+.info .col-sm-4 {
+  box-shadow: -5px -5px 5px 0 rgba(255, 255, 255, 0.6), 12px 12px 12px 0 rgba(0, 0, 0, 0.05);
+  box-sizing: border-box;
+  border-radius: 15px;
+}
+
+.col-sm-4 .img-fluid {
+  cursor: pointer;
+}
